@@ -1,4 +1,4 @@
-sprong:
+spring:
   application:
     name: Config-dev
 eureka:
